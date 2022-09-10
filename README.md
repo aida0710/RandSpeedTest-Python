@@ -1,1 +1,1 @@
-# https-github.com-lazyperson0710-RandSpeedTest-Python
+# 乱数生成関数の速度計測 Pythonバージョン
